@@ -1,0 +1,27 @@
+/* h1{
+    background-color: black;
+    color: aliceblue;
+}
+p{
+    transform: rotate();
+    color: rgb(247, 247, 16);
+}
+body{
+    background-color: palevioletred;
+}
+h1{
+    visibility: hidden;
+} */
+ #box{
+    height: 200px;
+    width: 100px;
+    background-color: brown;
+    color: antiquewhite;
+ }
+ .bhai{
+    
+    color: blue;
+ }
+ .newbhai{
+    background-color: rgb(249, 10, 50);
+ }
