@@ -18,13 +18,12 @@ Both games are created using **HTML, CSS, and Vanilla JavaScript**.
 - JavaScript (ES6)
 
 ## 📷 Screenshots
-([stone-papae-scissor](https://github.com/user-attachments/assets/3b829073-c07f-4392-8eb8-d7058c715a39) ![tic-tac-toe](https://github.com/user-attachments/assets/1fc3ad34-b259-4b17-a7c6-1c0cf1a6cf5a)
+([stone-papae-scissor](https://github.com/user-attachments/assets/3b829073-c07f-4392-8eb8-d7058c715a39) [tic-tac-toe](https://github.com/user-attachments/assets/1fc3ad34-b259-4b17-a7c6-1c0cf1a6cf5a)
 )
 
 
 ## 🌐 Live Demo
-[Play Tic Tac Toe](https://your-link.com)  
-[Play Stone Paper Scissors]( https://preeti-aanjna.github.io/Javascript-game/)
+[Click Here](https://preeti-aanjna.github.io/Javascript-game/)  
 
 ## ✨ Author
 - [Preeti Aanjna](https://github.com/preeti-aanjna)
